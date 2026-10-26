@@ -1,0 +1,25 @@
+{
+  "schema": "intelligence-host-status-v1",
+  "run_id": 40311484101,
+  "builder_revision": "963206fba6925b1b9a1981c38d3480535419365e",
+  "tests": "success",
+  "build": "success",
+  "publication_result": "success",
+  "publication": {
+    "schema": "civic-intelligence-publication-v1",
+    "data_repository": "bartimoussmith-oss/civic-newsroom-intelligence-001",
+    "revision": "5a32d3f5e99bce745898f47673db7dc2ffb16207",
+    "base_url": "https://raw.githubusercontent.com/bartimoussmith-oss/civic-newsroom-intelligence-001/5a32d3f5e99bce745898f47673db7dc2ffb16207/data/run-40311484101-1/",
+    "collection_sha256": "3518b46f93db40b6e22c5bd41883fb823be026fe386f4f52eb58a35d22ca3f6c",
+    "records": 6065,
+    "passages": 432020,
+    "reference_mentions": 7916,
+    "language_candidates": 867452,
+    "verified_entity_resolution": false,
+    "source_independence": "unresolved",
+    "workflow_run": "40311484101",
+    "stored_bytes": 493608460
+  },
+  "checked_at": "2026-10-26T11:00:44.312Z",
+  "scope": "Data publication only; not website deployment, factual validation or Google indexing."
+}
